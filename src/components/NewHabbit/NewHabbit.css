@@ -1,0 +1,22 @@
+.modal{
+    position: fixed;
+    width: 50vw;
+    height: fit-content;
+    padding: 1rem;
+    z-index: 1;
+    top: 25%;
+    left: 25%;
+    background-color: lightblue;
+  }
+  .newHabbit-Container{
+    
+    display: flex;
+    flex-direction: column;
+    gap:1rem;
+   
+  }
+  .newhabbit-btn-action{
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+  }

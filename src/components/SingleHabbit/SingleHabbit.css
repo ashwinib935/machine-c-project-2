@@ -1,0 +1,12 @@
+.single-habbit-container{
+    height: 100px;
+    width: 300px;
+    border: 1px solid;
+    border-radius: 5px;
+
+}
+.btn-action{
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+}

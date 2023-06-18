@@ -1,0 +1,10 @@
+.habbits-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:1rem;
+
+}
+.container-add-btn{
+    margin: 2rem 1rem;
+}
